@@ -13,15 +13,6 @@ This project uses **Pandas**, **Matplotlib**, and **SciPy** to:
 
 ---
 
-## 📁 Project Structure
-pymaceuticals/
-├── pymaceuticals_study.ipynb          # Main analysis notebook
-├── Resources/
-│   ├── mouse_metadata.csv             # Mouse ID, sex, drug regimen, etc.
-│   └── study_results.csv              # Tumor volume observations over time
-└── README.md                          # Project documentation
----
-
 ## 🎯 Objectives
 
 ### 1. 🧼 Prepare the Data
